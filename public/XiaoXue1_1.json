@@ -1,0 +1,35 @@
+[
+    {
+        "name": "book",
+        "trans": [
+            "书",
+            "书本"
+        ],
+        "usphone": "bʊk",
+        "ukphone": "bʊk"
+    },
+    {
+        "name": "ruler",
+        "trans": [
+            "尺子"
+        ],
+        "usphone": "ˈruːlər",
+        "ukphone": "ˈruːlər"
+    },
+    {
+        "name": "pencil",
+        "trans": [
+            "铅笔"
+        ],
+        "usphone": "ˈpɛnsəl",
+        "ukphone": "ˈpɛnsəl"
+    },
+    {
+        "name": "schoolbag",
+        "trans": [
+            "书包"
+        ],
+        "usphone": "ˈskulˌbæɡ",
+        "ukphone": "ˈskuːlˌbæɡ"
+    }
+]
